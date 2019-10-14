@@ -7,3 +7,11 @@ h1{
 }
 p{color:maroon
 }
+h1{
+  background-color: #2521fa;
+  border: 5px solid #aa12af
+}
+h2{
+  border: 1.66px solid #a6d2f1;
+  color: #addd23;
+}
