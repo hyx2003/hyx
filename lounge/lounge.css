@@ -1,17 +1,14 @@
-h1,h2{
+body{
   font-family: sans-serif;
-  color:gray;
+  color: #255536;
+  border-left:2px solid #1a2dda;
+  border-right:2px solid #1a2aac;
+  border-top:2px solid #1a22a3;
+  border-bottom:2px solid #1a21aa;
 }
-h1{ 
-  border-bottom: 1px solid black;
-}
-p{color:maroon
+h1, h2{
+  color:gary;
 }
 h1{
-  background-color: #2521fa;
-  border: 5px solid #aa12af
-}
-h2{
-  border: 1.66px solid #a6d2f1;
-  color: #addd23;
+  border-bottom:1px solid black;
 }
