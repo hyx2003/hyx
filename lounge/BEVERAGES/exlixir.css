@@ -1,23 +1,25 @@
 p.greentea{
   color:green;
-  border-left: 2.65px solid #25adfd;
-  border-right: 2.63px dotted #25aafd;
-  border-top: 2.61px solid #25acfd;
-  border-bottom: 2.59px dotted #25abfd;
   font-family: sans-serif;
   font-feature-settings: "abvs";
 }
 p.raspberry{
   color:blue;
   font: bolder;
-  border:2.66px dotted #256636;
+  font-family: sans-serif;
 }
 p.Blueberry{
   color:purple;
 }
 body{
   text-align: center;
+  border-left:2.65px solid #6955ad;
+  border-right:2.65px solid #6955ab;
+  border-top:2.65px solid #6959ab;
+  border-bottom:2.65px solid #6959aa;
+  font-family: serif; 
 }
 h2{
 text-align: start;
+border-bottom:3px solid #699999;
 }
