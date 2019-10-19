@@ -1,12 +1,23 @@
 p.greentea{
   color:green;
+  border-left: 2.65px solid #25adfd;
+  border-right: 2.63px dotted #25aafd;
+  border-top: 2.61px solid #25acfd;
+  border-bottom: 2.59px dotted #25abfd;
+  font-family: sans-serif;
+  font-feature-settings: "abvs";
 }
 p.raspberry{
   color:blue;
+  font: bolder;
+  border:2.66px dotted #256636;
 }
 p.Blueberry{
   color:purple;
 }
 body{
   text-align: center;
+}
+h2{
+text-align: start;
 }
