@@ -1,0 +1,20 @@
+.wode{
+    background-color:#d5a9f6;
+    border:1.66px dotted #266adc;
+    color:#add99d;
+    text-align: center;
+    font-size:23pt;
+    font-weight:609;
+
+}
+.a{
+    font-size:20pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration-line: underline;
+    text-align: inherit;
+    color:#fc2adc;
+    font-style: italic;
+    font-weight:588;
+    border:2.6pt dotted #888888;
+    background-color:#dcabfd;
+}
