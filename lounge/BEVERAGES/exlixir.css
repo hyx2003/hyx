@@ -18,8 +18,12 @@ body{
   border-top:2.65px solid #6959ab;
   border-bottom:2.65px solid #6959aa;
   font-family: serif; 
+  margin:0px;
+  padding:0px;
 }
 h2{
 text-align: start;
 border-bottom:3px solid #699999;
+margin:0px;
+padding:0px;
 }
